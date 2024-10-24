@@ -32,4 +32,88 @@
 ### 23.Churn: Whether the customer has churned (Yes/No).
 ###
 
-## KPI's to 
+## KPI's to Focus:
+###
+### 1.Demographics
+### 2.Customer account information
+### 3.Service customer Signed for
+### 4.Churn by type of Internet services
+### 5.Customer by internet service 
+### 6.Sum of monthly charges
+### 7.Type of contract
+### 8.Churn by payment method
+
+## Analysis Insights
+### 
+
+## Customer Churn Dashboard
+###
+![Screenshot 2024-10-24 110943](https://github.com/user-attachments/assets/c7e78121-590d-4f57-aa32-6133d8774019)
+
+
+###
+![Screenshot 2024-10-24 111441](https://github.com/user-attachments/assets/f4190f4c-f808-4d47-9c97-f6d57d9a53f8)
+
+###
+### 1.Customer Base Overview:
+#### Total customers at risk: 7,043
+#### Overall churn rate: 26.54% (which is quite high for the telecom industry)
+#### Yearly charges: $16.06M
+#### Monthly charges: $456.12K
+### Critical Risk Factors:
+### Contract Type Impact:
+#### Month-to-month contracts show the highest churn rate (42.71%)
+#### Two-year contracts have the lowest churn rate (~11%)
+#### 55% of customers are on month-to-month contracts, representing a significant risk area
+
+### Internet Service Analysis:
+#### Fiber optic customers show the highest churn rate (41.89%)
+#### DSL has a moderate churn rate (18.96%)
+#### Despite higher churn, Fiber optic service has the largest customer base (3.1K customers)
+
+### 2.Customer Demographics:
+#### Gender distribution is fairly balanced (50.5% female, 49.5% male)
+#### Customer segments:
+#### 36% Partners
+#### 25% Senior Citizens
+#### 17% Dependents
+
+### Service Adoption:
+#### Phone Service: 91% adoption rate
+#### Streaming TV and Movies: 44% each
+#### Lower adoption rates for:
+#### Device protection (29%)
+#### Online Backup (28%)
+#### Tech Support (17%)
+#### Online Security (16%)
+
+### Payment Behavior:
+#### Electronic check users show the highest churn risk
+#### Payment method distribution:
+#### Electronic check: 34%
+#### Mailed check: 23%
+#### Bank transfer and Credit card: 22% each
+#### Paperless billing adopted by 25.09% of customers
+
+## Recommendations for Customer Retentation:
+### 1.Contract Strategy:
+#### Develop incentives to move month-to-month customers to longer-term contracts
+#### Create special offers for customers completing their first year
+#### Design retention programs specifically for Fiber optic service customers
+
+### 2.Service Enhancement:
+#### Investigate why Fiber optic services have high churn despite being popular
+#### Focus on increasing adoption of security and support services, which could increase customer stickiness
+
+### 3.Payment Method Optimization:
+#### Analyze why electronic check users have higher churn rates
+#### Consider incentives for customers to switch to more stable payment methods
+
+### 4.Customer Engagement:
+#### Develop targeted retention programs for each customer segment (Partners, Senior Citizens, Dependents)
+#### Create service bundles that appeal to specific demographic groups.
+
+### 5.Proactive Risk Management:
+#### Implement early warning system for customers showing risk patterns
+#### Focus on the first year of service, where churn risk appears highest
+#### Consider a loyalty program to reward long-term customers
